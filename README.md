@@ -1,4 +1,4 @@
-**Meet Landing Page - ReadMe**
+# **Meet Landing Page - ReadMe**
 
 A meet up landing page built with HMTL and CSS
 
