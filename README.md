@@ -1,6 +1,6 @@
 # **Meet Landing Page - ReadMe**
 
-A meet up landing page built with HMTL and CSS
+A meet up landing page built with HMTL and CSS. [Preview](https://adama-doh.github.io/meet-landing-page/starter-code/index.html)
 
 ![Meet Landing Page](starter-code/assets/meet-landing-page.png)
 
