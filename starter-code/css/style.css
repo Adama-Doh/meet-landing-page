@@ -56,6 +56,9 @@ header .about {
 header .download {
   margin-bottom: 1rem;
 }
+header .about {
+  margin-bottom: 4rem;
+}
 
 .download,
 .about {
@@ -123,7 +126,7 @@ main {
   text-align: center;
 }
 main .image-grid {
-  display: flex wrap;
+  display: flex wrap; 
   margin-bottom: 3.687rem;
 }
 main .image-grid img {
@@ -161,7 +164,7 @@ h2 {
   background: hsl(0, 0%, 98%);
   color: hsl(240, 10%, 57%);
   padding: 1rem 1rem;
-  transform: translateY(-7.5rem);
+  transform: translateY(-7.5rem); /*research*/
 }
 
 footer {
