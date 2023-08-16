@@ -171,7 +171,7 @@ footer {
   position: relative;
   color: hsl(0, 0%, 98%);
   text-align: center;
-  background-image: url("../assets/desktop/image-footer.jpg");
+  background-image: url("../assets/mobile/image-footer.jpg");
   background-size: cover;
   padding: 0 1.5rem;
   font-size: 1.125rem;
@@ -263,7 +263,7 @@ footer .overlay {
     margin: 0 auto 2rem auto;
   }
   footer {
-    background-image: url("../assets/desktop/image-footer.jpg");
+    background-image: url("../assets/tablet/image-footer.jpg");
     background-position: center;
   }
   footer h2 {
@@ -334,7 +334,7 @@ footer .overlay {
     width: 31.75rem;
   }
   footer {
-    background-image: url("../assets/tablet/image-footer.jpg");
+    background-image: url("../assets/desktop/image-footer.jpg");
     padding-bottom: 6.5rem;
   }
   footer .flex-container {
